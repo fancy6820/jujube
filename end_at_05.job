@@ -1,0 +1,3 @@
+type=command
+command=echo "05"
+dependencies=jujube.dw_riskdata_user,jujube.dw_riskdata_user_yesterday,jujube.dw_riskdata_zc_borrow_info,risk_para.sjd_export_list,jujube.dw_raw_user_info,mis.mis_product_device,mis.mis_dim_llcs,collection_mobp2p.cl_order_info

@@ -1,0 +1,3 @@
+type=command
+command=echo "09"
+dependencies=mis.mis_sc_sjd_apply_stats_rpt,mis.mis_sc_sjd_cash_out_stats_rpt,jujube.dw_raw_rzj_user

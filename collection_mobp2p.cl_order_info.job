@@ -1,0 +1,3 @@
+type=command
+command=ssh etl@10.30.18.12 sudo /home/etl/job/mysql_to_hive_all.sh  xczx1.read.db.ql.corp collection_mobp2p cl_order_info collection_mobp2p cl_order_info 
+command.1=python /opt/scripts/WriteSyncData.py mis.mis_dim_market_channel

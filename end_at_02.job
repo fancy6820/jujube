@@ -1,0 +1,3 @@
+type=command
+command=echo "02 o'clock"
+dependencies=jujube.t_user_borrow_linkman_scoreAndPhone,jujube_dw.dw_raw_mobile_photo_file_info,jujube_dw.dw_riskdata_device_app_list,mis.mis_dim_market_channel,jujube_dw.mis_dim_decline_score_id,jujube_dw.qingjie_channel,jujube_dw.qingjie_product,jujube.dw_riskdata_first_apply_score_v2
